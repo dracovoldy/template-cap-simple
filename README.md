@@ -20,7 +20,8 @@ File or Folder | Purpose
 - run `npm run watch` to start live preview with hmr
 - Start adding content, for example, a [db/schema.cds](db/schema.cds).
 - Start adding app content, for example, a [app/myapp/package.json](app/myapp/package.json).
-
+- Start adding UI annotations for generating a basic list report and support CRUD operations if needed, for example, a [app/myapp/annotation.cds](app/myapp/annotation.cds).
+- Carefully develop additional files that maybe needed.
 
 ## Learn More
 
