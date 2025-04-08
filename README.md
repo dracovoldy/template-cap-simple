@@ -15,9 +15,11 @@ File or Folder | Purpose
 
 ## Next Steps
 
-- Open a new terminal and run `cds watch`
-- (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
+- CRITICAL: Install node modules first `npm i`
+- run `npm run deploy` to deploy sqlite db to memory first!
+- run `npm run watch` to start live preview with hmr
 - Start adding content, for example, a [db/schema.cds](db/schema.cds).
+- Start adding app content, for example, a [app/myapp/package.json](app/myapp/package.json).
 
 
 ## Learn More
